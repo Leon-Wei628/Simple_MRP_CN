@@ -1,0 +1,5 @@
+streamlit==1.47.1
+pandas==2.3.1
+numpy==2.3.2
+ortools==9.14.6206
+setuptools==80.9.0
